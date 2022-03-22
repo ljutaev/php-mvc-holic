@@ -1,0 +1,15 @@
+{
+    "name": "asus/php-mvc-holic",
+    "authors": [
+        {
+            "name": "Sasha Ljutaev",
+            "email": "ljutaev@gmail.com"
+        }
+    ],
+    "autoload": {
+    	"psr-4": {
+    		"app\\": "./"
+    	}
+    },
+    "require": {}
+}
